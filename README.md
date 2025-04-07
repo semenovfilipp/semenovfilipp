@@ -13,7 +13,6 @@
 <p>
   <a href="https://t.me/semenovfilipp" target="_blank"><img src="https://telegram.org/img/t_logo.png" alt="Telegram" height="40" width="40" /></a>
   <a href="https://clck.ru/38TBtr" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" alt="HeadHunter" height="40" width="40" /></a>
-  <a href="https://linkedin.com/in/semenovfilipp" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="LinkedIn" height="40" width="40" /></a>
 </p>
 
 <h3>Языки и инструменты:</h3>

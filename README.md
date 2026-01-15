@@ -1,5 +1,5 @@
 <h1 align="center">Привет 👋, меня зовут Филипп</h1>
-<h3 align="center">Здесь находятся мои Kotlin|Java проекты</h3>
+<h3 align="center">Здесь находятся мои проекты которые я делаю в свободное время что бы не забывать про технологии и языки</h3>
 
 <ul>
   <li>Каждый проект имеет <strong>Readme</strong> для удобства.</li>
@@ -10,10 +10,9 @@
 <h3>Связься со мной:</h3>
 <p>
   <a href="https://t.me/semenovfilipp" target="_blank"><img src="https://telegram.org/img/t_logo.png" alt="Telegram" height="40" width="40" /></a>
-  <a href="https://clck.ru/38TBtr" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" alt="HeadHunter" height="40" width="40" /></a>
 </p>
 
-<h3>Языки и инструменты:</h3>
+<h3>Языки и инструменты которые я успел потрогать:</h3>
 <p>
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="40" width="40"/></a>
   <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Framework" height="40" width="40"/></a>
